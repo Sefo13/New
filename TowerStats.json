@@ -1287,6 +1287,83 @@
             }
         ]
     },
+   "Officer Guard": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://90143387542577",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+   "[Injured] Acid Bounded Shadow": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://4585574252",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 40000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 120000,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 150000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 200000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+
     "Algae FredBear": {
         "Type": "Single",
         "Image": "rbxassetid://18255264349",
