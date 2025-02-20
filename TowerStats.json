@@ -347,11 +347,11 @@
         ]
     },
         "Aramkdr42": {
-        "Type": "AOE",
+        "Type": "Single",
         "Image": "rbxassetid://71447683559485",
         "Rarity": "Nightmare",
-        "PlacePrice": 0,
-        "Max": 1000000,
+        "PlacePrice": 400,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -362,25 +362,25 @@
                 "Price": 0,
                 "Range": 10,
                 "Damage": 30,
-                "Cooldown": 0.05
+                "Cooldown": 1.5
             },
             {
-                "Price": 35000,
+                "Price": 100,
                 "Range": 15,
                 "Damage": 35,
-                "Cooldown": 0.05
+                "Cooldown": 1
             },
             {
-                "Price": 45000,
+                "Price": 100,
                 "Range": 20,
                 "Damage": 50,
-                "Cooldown": 0.05
+                "Cooldown": 0.90
             },
             {
-                "Price": 60000,
+                "Price": 100,
                 "Range": 20,
                 "Damage": 65,
-                "Cooldown": 0.05
+                "Cooldown": 0.25
             }
         ]
     },
