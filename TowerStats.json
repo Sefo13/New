@@ -10059,6 +10059,54 @@
             }
         ]
     },
+        "Trok": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://18209589139",
+        "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 2.5,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 2.4,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 2.2,
+                "Slow": 0.75,
+                "SlowTime": 1
+            },
+            {
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 2,
+                "Slow": 0.75,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Hermes Puppeteer": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://83624388314614",
@@ -10544,4 +10592,5 @@
             }
         ]
     }
-}
+},
+
