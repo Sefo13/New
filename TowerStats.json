@@ -10059,14 +10059,14 @@
             }
         ]
     },
-        "Trok": {
-        "Type": "Cone AOE + Slow",
+    "Trok Unit": {
+        "Type": "AOE",
         "Image": "rbxassetid://18209589139",
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Apex",
+        "PlacePrice": 500,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
