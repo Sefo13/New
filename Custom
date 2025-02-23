@@ -1,0 +1,211 @@
+    "Aramkdr42": {
+        "Type": "AOE Stun",
+        "Image": "rbxassetid://124070458754546",
+        "Rarity": "Cosmic",
+        "PlacePrice": 250000,
+        "Offset": 0.5,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 20000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 28,
+                "Damage": 25000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 45000,
+                "Range": 29,
+                "Damage": 35000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 50000,
+                "Range": 32,
+                "Damage": 40000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Trok": {
+        "Type": "AOE Stun",
+        "Image": "rbxassetid://124070458754546",
+        "Rarity": "Cosmic",
+        "PlacePrice": 250000,
+        "Offset": 0.5,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 20000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 28,
+                "Damage": 25000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 45000,
+                "Range": 29,
+                "Damage": 35000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 50000,
+                "Range": 32,
+                "Damage": 40000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "VoidManDevelopment": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://75584022223965",
+        "Rarity": "Cosmic",
+        "PlacePrice": 30000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 300,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 26,
+                "Damage": 500,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Seferhangameguy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://137075245694375",
+        "Rarity": "Modded",
+        "PlacePrice": 1500,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 22000,
+                "Range": 28,
+                "Damage": 10000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 1.6
+            }
+        ]
+    },
+    "Yusuf": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://76625233818294",
+        "Rarity": "Cosmic",
+        "PlacePrice": 30000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 100,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 35000,
+                "Range": 23,
+                "Damage": 300,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 26,
+                "Damage": 500,
+                "Cooldown": 0.05
+            }
+        ]
+    },
